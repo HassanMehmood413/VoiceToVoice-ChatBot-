@@ -6,7 +6,7 @@ import io
 from groq import Groq
 
 # Initialize the Groq client
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 # Initialize the Groq client
 client = Groq(api_key=GROQ_API_KEY)
 
